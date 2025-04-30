@@ -1,0 +1,12 @@
+numpy
+subprocess
+os
+requests
+logging
+warnings
+time
+argparse
+collections
+HMMER
+BioPython
+Protein-Protein BLAST 2.12.0+
