@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![PyPI version](https://img.shields.io/pypi/v/DPRED)](https://pypi.org/project/DPRED/)  
 
-**DPRED** is a command-line tool for automatic protein domain prediction and validation, based on Hidden Markov Models (HMMs). It fetches high-quality PDB structures for a user-specified PFAM domain, builds an HMM via HMMER, and evaluates predictive performance with k-fold cross-validation against UniProt sequences :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+**DPRED** is a command-line tool for automatic protein domain prediction and validation, based on Hidden Markov Models (HMMs). It fetches high-quality PDB structures for a user-specified PFAM domain, builds an HMM via HMMER, and evaluates predictive performance with k-fold cross-validation against UniProt sequences.
 
 ---
 
